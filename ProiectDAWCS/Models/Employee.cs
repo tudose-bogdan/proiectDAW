@@ -11,6 +11,7 @@ namespace ProiectDAWCS.Models
         public int EmployeeId { get; set; }
         public int Salary { get; set; }
         public String JobName { get; set; }
+        public int asd { get; set; }
 
 
 
